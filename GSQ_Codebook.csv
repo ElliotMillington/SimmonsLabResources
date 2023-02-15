@@ -1,43 +1,43 @@
-﻿Question_Number,GSQ_14_Question_Number,Modality,Direction,Question_Text
-1,NA,Tactile,Hyper,Do you dislike the physical sensation you get when people hug you?
-2,NA,Gustatory,Hyper,"Do you gag when you are eating certain foods, perhaps feeling as if you are going to be sick)?"
-3,NA,Propioceptive,Hypo,"Do you find it difficult to manipulate your hands when completing a delicate task (for example, picking up small objects or transferring objects from one hand to the other)?"
-4,NA,Visual,Hypo,Do you ever run your hand around the outside of an object before picking it up?
-5,NA,Propioceptive,Hypo,"Do you stand very close (for example, less than 1 metre/3 feet away) or very far (for example, more than 3 metres/9 feet away) when you are talking to someone?"
-6,NA,Auditory,Hyper,Do you find certain noises/pitches of sound annoying?
-7,NA,Olfactory,Hypo,Do you smell your food before you eat it?
-8,NA,Visual,Hyper,Do bright lights ever hurt your eyes/cause a headache?
-9,NA,Auditory,Hypo,Do you like to listen to the same piece of music/part of a DVD over and over again?
-10,NA,Vestibular,Hyper,Do you feel ill/dizzy/peculiar if you have to reach up high or bend down low for something?
-11,1,Visual,Hyper,"Do you find yourself fascinated by small particles (for example, little ‘bits’ of dust in the air)?"
-12,NA,Vestibular,Hypo,Do you like to spin yourself round and round?
-13,NA,Olfactory,Hyper,Do you ever feel ill just from smelling a certain odour?
-14,,Auditory,Hypo,Do you find it difficult to hear what people are saying?
-15,2,Tactile,Hyper,"Do you dislike having a haircut (for example, because little bits of hair go down your back)?"
-16,NA,Tactile,Hypo,Do you notice that you have hurt yourself but did not feel any pain?
-17,3,Olfactory,Hypo,Are you ever told by others that you wear too much perfume/after-shave?
-18,NA,Visual,Hyper,Do lights ever seem to flicker when you look at them?  (‘Flickering’ in this question means appearing to turn on and off very quickly instead of appearing constant). 
-19,NA,Visual,Hypo,Do you like lining objects up?
-20,NA,Vestibular,Hypo,Do you rock yourself backwards and forwards?
-21,NA,Olfactory,Hyper,Do you find it difficult to go into a strong-smelling shop (for example “Lush” and “The Body Shop”)?
-22,NA,Tactile,Hyper,Do you cut the labels out of your clothes?
-23,NA,Gustatory,Hyper,Do you hate the feel or texture of certain foods in your mouth?
-24,4,Olfactory,Hyper,Do you avoid going to restaurants because you can smell a certain odour?
-25,NA,Auditory,Hyper,Do you dislike loud noises?
-26,5,Gustatory,Hyper,Do you use the tip of your tongue to taste your food before eating it?
-27,6,Tactile,Hypo,Does your body ever feel ‘numb’ - like you can’t feel anything against your skin?
-28,7,Gustatory,Hypo,Do you think you have a weak sense of taste?  One example of this would be if most food taste of ‘nothing’?
-29,8,Propioceptive,Hypo,"Do you find that you are unaware of your body’s signals (for example, don’t often feel hungry/tired/thirsty)?"
-30,9,Vestibular,Hyper,"Do you ever feel dizzy/ill when playing fast-paced sports, for example basketball or football?"
-31,10,Auditory,Hyper,Do you react very strongly when you hear an unexpected sound?
-32,NA,Vestibular,Hyper,Do you dislike walking on uneven surfaces?
-33,11,Auditory,Hypo,"Do you really like listening to certain sounds (for example, the sound of paper rustling)?"
-34,12,Vestibular,Hypo,Do you like to run about – perhaps up and down in straight lines or round in circles?
-35,NA,Gustatory,Hypo,Do you chew and lick objects that aren’t food (for example pen lids or bottle tops) because you like the way they feel in your mouth?
-36,NA,Olfactory,Hypo,Do you enjoy wearing very strong perfumes/after-shaves?
-37,NA,Propioceptive,Hyper,"Do you find that you position your body in a way that is different to most people (for example, lie on your back on a sofa with your legs straight up in the air at a 90° angle)?"
-38,NA,Propioceptive,Hyper,Do you find it difficult to tie your shoelaces or button up your clothes?
-39,NA,Tactile,Hypo,Do you find that you are able to go outside without a coat or a jacket when other people think that it is too cold?
-40,NA,Gustatory,Hypo,Do you eat the same foods most of the time?
-41,13,Propioceptive,Hyper,"Do you like to wear something/hold something (for example, a hat or a pencil) so that you know where your body ‘ends’?"
-42,14,Visual,Hypo,Do you flick your fingers in front of your eyes?
+﻿Question_Number,GSQ_14_Question_Number,Modality,Abbr_Mod,Direction,Question_Text
+1,NA,Tactile,Tac,Hyper,Do you dislike the physical sensation you get when people hug you?
+2,NA,Gustatory,Gus,Hyper,"Do you gag when you are eating certain foods, perhaps feeling as if you are going to be sick)?"
+3,NA,Propioceptive,Pro,Hypo,"Do you find it difficult to manipulate your hands when completing a delicate task (for example, picking up small objects or transferring objects from one hand to the other)?"
+4,NA,Visual,Vis,Hypo,Do you ever run your hand around the outside of an object before picking it up?
+5,NA,Propioceptive,Pro,Hypo,"Do you stand very close (for example, less than 1 metre/3 feet away) or very far (for example, more than 3 metres/9 feet away) when you are talking to someone?"
+6,NA,Auditory,Aud,Hyper,Do you find certain noises/pitches of sound annoying?
+7,NA,Olfactory,Olf,Hypo,Do you smell your food before you eat it?
+8,NA,Visual,Vis,Hyper,Do bright lights ever hurt your eyes/cause a headache?
+9,NA,Auditory,Aud,Hypo,Do you like to listen to the same piece of music/part of a DVD over and over again?
+10,NA,Vestibular,Ves,Hyper,Do you feel ill/dizzy/peculiar if you have to reach up high or bend down low for something?
+11,1,Visual,Vis,Hyper,"Do you find yourself fascinated by small particles (for example, little ‘bits’ of dust in the air)?"
+12,NA,Vestibular,Ves,Hypo,Do you like to spin yourself round and round?
+13,NA,Olfactory,Olf,Hyper,Do you ever feel ill just from smelling a certain odour?
+14,,Auditory,Aud,Hypo,Do you find it difficult to hear what people are saying?
+15,2,Tactile,Tac,Hyper,"Do you dislike having a haircut (for example, because little bits of hair go down your back)?"
+16,NA,Tactile,Tac,Hypo,Do you notice that you have hurt yourself but did not feel any pain?
+17,3,Olfactory,Olf,Hypo,Are you ever told by others that you wear too much perfume/after-shave?
+18,NA,Visual,Vis,Hyper,Do lights ever seem to flicker when you look at them?  (‘Flickering’ in this question means appearing to turn on and off very quickly instead of appearing constant). 
+19,NA,Visual,Vis,Hypo,Do you like lining objects up?
+20,NA,Vestibular,Ves,Hypo,Do you rock yourself backwards and forwards?
+21,NA,Olfactory,Olf,Hyper,Do you find it difficult to go into a strong-smelling shop (for example “Lush” and “The Body Shop”)?
+22,NA,Tactile,Tac,Hyper,Do you cut the labels out of your clothes?
+23,NA,Gustatory,Gus,Hyper,Do you hate the feel or texture of certain foods in your mouth?
+24,4,Olfactory,Olf,Hyper,Do you avoid going to restaurants because you can smell a certain odour?
+25,NA,Auditory,Aud,Hyper,Do you dislike loud noises?
+26,5,Gustatory,Gus,Hyper,Do you use the tip of your tongue to taste your food before eating it?
+27,6,Tactile,Tac,Hypo,Does your body ever feel ‘numb’ - like you can’t feel anything against your skin?
+28,7,Gustatory,Gus,Hypo,Do you think you have a weak sense of taste?  One example of this would be if most food taste of ‘nothing’?
+29,8,Propioceptive,Pro,Hypo,"Do you find that you are unaware of your body’s signals (for example, don’t often feel hungry/tired/thirsty)?"
+30,9,Vestibular,Ves,Hyper,"Do you ever feel dizzy/ill when playing fast-paced sports, for example basketball or football?"
+31,10,Auditory,Aud,Hyper,Do you react very strongly when you hear an unexpected sound?
+32,NA,Vestibular,Ves,Hyper,Do you dislike walking on uneven surfaces?
+33,11,Auditory,Aud,Hypo,"Do you really like listening to certain sounds (for example, the sound of paper rustling)?"
+34,12,Vestibular,Ves,Hypo,Do you like to run about – perhaps up and down in straight lines or round in circles?
+35,NA,Gustatory,Gus,Hypo,Do you chew and lick objects that aren’t food (for example pen lids or bottle tops) because you like the way they feel in your mouth?
+36,NA,Olfactory,Olf,Hypo,Do you enjoy wearing very strong perfumes/after-shaves?
+37,NA,Propioceptive,Pro,Hyper,"Do you find that you position your body in a way that is different to most people (for example, lie on your back on a sofa with your legs straight up in the air at a 90° angle)?"
+38,NA,Propioceptive,Pro,Hyper,Do you find it difficult to tie your shoelaces or button up your clothes?
+39,NA,Tactile,Tac,Hypo,Do you find that you are able to go outside without a coat or a jacket when other people think that it is too cold?
+40,NA,Gustatory,Gus,Hypo,Do you eat the same foods most of the time?
+41,13,Propioceptive,Pro,Hyper,"Do you like to wear something/hold something (for example, a hat or a pencil) so that you know where your body ‘ends’?"
+42,14,Visual,Vis,Hypo,Do you flick your fingers in front of your eyes?

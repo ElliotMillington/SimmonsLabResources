@@ -1,51 +1,51 @@
-﻿Question_Number,AQ_10_Question_Number,Subscale,Reversed,Question Text
-1,NA,SocialSkills,TRUE,I prefer to do things with others rather than on my own.
-2,NA,AttentionSwitching,FALSE,I prefer to do things the same way over and over again.
-3,NA,Imagination,TRUE,"If I try to imagine something, I find it very easy to create a picture in my mind."
-4,NA,AttentionSwitching,FALSE,I frequently get so strongly absorbed in one thing that I lose sight of other things.
-5,1,AttentionToDetail,FALSE,I often notice small sounds when others do not.
-6,NA,AttentionToDetail,FALSE,I usually notice car number plates or similar strings of information.
-7,NA,Communication,FALSE,"Other people frequently tell me that what I’ve said is impolite, even though I think it is polite."
-8,NA,Imagination,TRUE,"When I’m reading a story, I can easily imagine what the characters might look like."
-9,NA,AttentionToDetail,FALSE,I am fascinated by dates.
-10,NA,AttentionSwitching,TRUE,"In a social group, I can easily keep track of several different people’s conversations."
-11,NA,SocialSkills,TRUE,I find social situations easy.
-12,NA,AttentionToDetail,FALSE,I tend to notice details that others do not.
-13,NA,SocialSkills,FALSE,I would rather go to a library than a party.
-14,NA,Imagination,TRUE,I find making up stories easy.
-15,NA,SocialSkills,TRUE,I find myself drawn more strongly to people than to things.
-16,NA,AttentionSwitching,FALSE,I tend to have very strong interests which I get upset about if I can’t pursue.
-17,NA,Communication,TRUE,I enjoy social chit-chat.
-18,NA,Communication,FALSE,"When I talk, it isn’t always easy for others to get a word in edgeways."
-19,NA,AttentionToDetail,FALSE,I am fascinated by numbers.
-20,7,Imagination,FALSE,"When I’m reading a story, I find it difficult to work out the characters’ intentions."
-21,NA,Imagination,FALSE,I don’t particularly enjoy reading fiction.
-22,NA,SocialSkills,FALSE,I find it hard to make new friends.
-23,NA,AttentionToDetail,FALSE,I notice patterns in things all the time.
-24,NA,Imagination,TRUE,I would rather go to the theatre than a museum.
-25,NA,AttentionSwitching,TRUE,It does not upset me if my daily routine is disturbed.
-26,NA,Communication,FALSE,I frequently find that I don’t know how to keep a conversation going.
-27,5,Communication,TRUE,I find it easy to “read between the lines” when someone is talking to me.
-28,2,AttentionToDetail,TRUE,"I usually concentrate more on the whole picture, rather than the small details."
-29,NA,AttentionToDetail,TRUE,I am not very good at remembering phone numbers.
-30,NA,AttentionToDetail,TRUE,"I don’t usually notice small changes in a situation, or a person’s appearance."
-31,6,Communication,TRUE,I know how to tell if someone listening to me is getting bored.
-32,3,AttentionSwitching,TRUE,I find it easy to do more than one thing at once.
-33,NA,Communication,FALSE,"When I talk on the phone, I’m not sure when it’s my turn to speak."
-34,NA,AttentionSwitching,TRUE,I enjoy doing things spontaneously.
-35,NA,Communication,FALSE,I am often the last to understand the point of a joke.
-36,9,SocialSkills,TRUE,I find it easy to work out what someone is thinking or feeling just by looking at their face.
-37,4,AttentionSwitching,TRUE,"If there is an interruption, I can switch back to what I was doing very quickly. "
-38,NA,Communication,TRUE,I am good at social chit-chat.
-39,NA,Communication,FALSE,People often tell me that I keep going on and on about the same thing.
-40,NA,Imagination,TRUE,"When I was young, I used to enjoy playing games involving pretending with other children."
-41,8,Imagination,FALSE,"I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant, etc.)."
-42,NA,Imagination,FALSE,I find it difficult to imagine what it would be like to be someone else.
-43,NA,AttentionSwitching,FALSE,I like to plan any activities I participate in carefully.
-44,NA,SocialSkills,TRUE,I enjoy social occasions.
-45,10,SocialSkills,FALSE,I find it difficult to work out people’s intentions.
-46,NA,AttentionSwitching,FALSE,New situations make me anxious.
-47,NA,SocialSkills,TRUE,I enjoy meeting new people.
-48,NA,SocialSkills,TRUE,I am a good diplomat.
-49,NA,AttentionToDetail,TRUE,I am not very good at remembering people’s date of birth.
-50,NA,Imagination,TRUE,I find it very easy to play games with children that involve pretending.
+﻿Question_Number,AQ_10_Question_Number,Subscale,Abbr_Subscale,Reversed,Question Text
+1,NA,SocialSkills,SocSki,TRUE,I prefer to do things with others rather than on my own.
+2,NA,AttentionSwitching,AttSwi,FALSE,I prefer to do things the same way over and over again.
+3,NA,Imagination,Imag,TRUE,"If I try to imagine something, I find it very easy to create a picture in my mind."
+4,NA,AttentionSwitching,AttSwi,FALSE,I frequently get so strongly absorbed in one thing that I lose sight of other things.
+5,1,AttentionToDetail,AttDet,FALSE,I often notice small sounds when others do not.
+6,NA,AttentionToDetail,AttDet,FALSE,I usually notice car number plates or similar strings of information.
+7,NA,Communication,Com,FALSE,"Other people frequently tell me that what I’ve said is impolite, even though I think it is polite."
+8,NA,Imagination,Imag,TRUE,"When I’m reading a story, I can easily imagine what the characters might look like."
+9,NA,AttentionToDetail,AttDet,FALSE,I am fascinated by dates.
+10,NA,AttentionSwitching,AttSwi,TRUE,"In a social group, I can easily keep track of several different people’s conversations."
+11,NA,SocialSkills,SocSki,TRUE,I find social situations easy.
+12,NA,AttentionToDetail,AttDet,FALSE,I tend to notice details that others do not.
+13,NA,SocialSkills,SocSki,FALSE,I would rather go to a library than a party.
+14,NA,Imagination,Imag,TRUE,I find making up stories easy.
+15,NA,SocialSkills,SocSki,TRUE,I find myself drawn more strongly to people than to things.
+16,NA,AttentionSwitching,AttSwi,FALSE,I tend to have very strong interests which I get upset about if I can’t pursue.
+17,NA,Communication,Com,TRUE,I enjoy social chit-chat.
+18,NA,Communication,Com,FALSE,"When I talk, it isn’t always easy for others to get a word in edgeways."
+19,NA,AttentionToDetail,AttDet,FALSE,I am fascinated by numbers.
+20,7,Imagination,Imag,FALSE,"When I’m reading a story, I find it difficult to work out the characters’ intentions."
+21,NA,Imagination,Imag,FALSE,I don’t particularly enjoy reading fiction.
+22,NA,SocialSkills,SocSki,FALSE,I find it hard to make new friends.
+23,NA,AttentionToDetail,AttDet,FALSE,I notice patterns in things all the time.
+24,NA,Imagination,Imag,TRUE,I would rather go to the theatre than a museum.
+25,NA,AttentionSwitching,AttSwi,TRUE,It does not upset me if my daily routine is disturbed.
+26,NA,Communication,Com,FALSE,I frequently find that I don’t know how to keep a conversation going.
+27,5,Communication,Com,TRUE,I find it easy to “read between the lines” when someone is talking to me.
+28,2,AttentionToDetail,AttDet,TRUE,"I usually concentrate more on the whole picture, rather than the small details."
+29,NA,AttentionToDetail,AttDet,TRUE,I am not very good at remembering phone numbers.
+30,NA,AttentionToDetail,AttDet,TRUE,"I don’t usually notice small changes in a situation, or a person’s appearance."
+31,6,Communication,Com,TRUE,I know how to tell if someone listening to me is getting bored.
+32,3,AttentionSwitching,AttSwi,TRUE,I find it easy to do more than one thing at once.
+33,NA,Communication,Com,FALSE,"When I talk on the phone, I’m not sure when it’s my turn to speak."
+34,NA,AttentionSwitching,AttSwi,TRUE,I enjoy doing things spontaneously.
+35,NA,Communication,Com,FALSE,I am often the last to understand the point of a joke.
+36,9,SocialSkills,SocSki,TRUE,I find it easy to work out what someone is thinking or feeling just by looking at their face.
+37,4,AttentionSwitching,AttSwi,TRUE,"If there is an interruption, I can switch back to what I was doing very quickly. "
+38,NA,Communication,Com,TRUE,I am good at social chit-chat.
+39,NA,Communication,Com,FALSE,People often tell me that I keep going on and on about the same thing.
+40,NA,Imagination,Imag,TRUE,"When I was young, I used to enjoy playing games involving pretending with other children."
+41,8,Imagination,Imag,FALSE,"I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant, etc.)."
+42,NA,Imagination,Imag,FALSE,I find it difficult to imagine what it would be like to be someone else.
+43,NA,AttentionSwitching,AttSwi,FALSE,I like to plan any activities I participate in carefully.
+44,NA,SocialSkills,SocSki,TRUE,I enjoy social occasions.
+45,10,SocialSkills,SocSki,FALSE,I find it difficult to work out people’s intentions.
+46,NA,AttentionSwitching,AttSwi,FALSE,New situations make me anxious.
+47,NA,SocialSkills,SocSki,TRUE,I enjoy meeting new people.
+48,NA,SocialSkills,SocSki,TRUE,I am a good diplomat.
+49,NA,AttentionToDetail,AttDet,TRUE,I am not very good at remembering people’s date of birth.
+50,NA,Imagination,Imag,TRUE,I find it very easy to play games with children that involve pretending.
