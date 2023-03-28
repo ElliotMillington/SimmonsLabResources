@@ -1,4 +1,4 @@
-﻿Question_Number,AQ_10_Question_Number,Subscale,Abbr_Subscale,Reversed,Question Text
+﻿question_number,aq_10_question_number,subscale,abbr_subscale,reversed,question_text
 1,NA,SocialSkills,SocSki,TRUE,I prefer to do things with others rather than on my own.
 2,NA,AttentionSwitching,AttSwi,FALSE,I prefer to do things the same way over and over again.
 3,NA,Imagination,Imag,TRUE,"If I try to imagine something, I find it very easy to create a picture in my mind."

@@ -1,0 +1,18 @@
+Package: SimmonsLab
+Date: 2023-03-27
+Title: Simmons Lab Resources
+Version: 0.0.1
+Authors@R:
+    person(given = "Elliot",
+           family = "Millington",
+           role = c("aut", "cre"),
+           email = "elliot.millington1@gmail.com",
+           comment = c(ORCID = "0000-0002-2580-4035"))
+Description: This package contains a number of resources which are useful for members of the Simmons lab. This includes example scripts, custom functions, and codebooks.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true

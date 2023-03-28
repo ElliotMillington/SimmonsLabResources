@@ -1,4 +1,4 @@
-﻿Question_Number,GSQ_14_Question_Number,Modality,Abbr_Mod,Direction,Question_Text
+﻿question_number,gsq_14_question_number,modality,abbr_mod,direction,question_text
 1,NA,Tactile,Tac,Hyper,Do you dislike the physical sensation you get when people hug you?
 2,NA,Gustatory,Gus,Hyper,"Do you gag when you are eating certain foods, perhaps feeling as if you are going to be sick)?"
 3,NA,Propioceptive,Pro,Hypo,"Do you find it difficult to manipulate your hands when completing a delicate task (for example, picking up small objects or transferring objects from one hand to the other)?"
