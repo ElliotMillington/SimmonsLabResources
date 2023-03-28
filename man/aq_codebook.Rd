@@ -5,7 +5,7 @@
 \alias{aq_codebook}
 \title{AQ Codebook}
 \format{
-A data frame with 50 rows and 6 variables:
+A data frame with 50 rows and 6 variables
 \describe{
 \item{question_number}{The question number in the original AQ questionnaire}
 \item{aq_10_question_number}{The question number in the AQ-10. NA if not in the AQ-10}

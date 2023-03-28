@@ -1,3 +1,22 @@
+#' Tukey Ladder of Powers Transformation
+#'
+#' @description
+#' Returns a numeric vector transformed using Tukey's Ladder of powers to be more approximately normal.
+#'
+#' @param x A vector of numeric values to be transformed
+#' @param start The lowest value of lambda to be tested
+#' @param end The highest value of lambda to be tested
+#' @param by The step value between lambdas
+#' @param printResult Whether or not to print the chosen value of lambda
+#' @param plotResult Whether or not to plot the Anderson-Darling A values
+#'
+#' @return A numeric vector
+#' @export
+#'
+#' @examples
+#' old_vector = stats::rnorm(100)
+#' transformed_vector = tukeyLadderOfPowers(old_vector)
+#'
 tukeyLadderOfPowers = function(x,
                                start = -3, end = 3, by = 0.025,
                                printResult = FALSE, plotResult = FALSE) {

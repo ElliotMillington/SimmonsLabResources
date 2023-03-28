@@ -5,7 +5,7 @@
 \alias{gsq_codebook}
 \title{GSQ Codebook}
 \format{
-A data frame with 42 rows and 6 variables:
+A data frame with 42 rows and 6 variables
 \describe{
 \item{question_number}{The original question number in the original GSQ}
 \item{gsq_14_question_number}{The question number in the GSQ-14}
