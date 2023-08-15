@@ -1,7 +1,7 @@
-Package: SimmonsLab
+Package: SimmonsLabResources
 Date: 2023-03-27
 Title: Simmons Lab Resources
-Version: 0.0.1
+Version: 0.0.2
 Authors@R:
     person(given = "Elliot",
            family = "Millington",
@@ -18,3 +18,4 @@ Depends:
 LazyData: true
 Imports: 
     stats
+URL: https://elliotmillington.github.io/SimmonsLabResources/
